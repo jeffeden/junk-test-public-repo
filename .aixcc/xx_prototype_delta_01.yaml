@@ -1,0 +1,11 @@
+challenge-yaml-version: v1
+
+name: "Sample Prototype Round Delta Scan Challenge 01"
+
+challenge-type: delta    # full | delta
+
+base-ref: a93c3ce3aafbd97103ae9bb45013bb57740fa85a
+delta-ref: 34611318283ab6227d64e640399ff12e49ab4188
+
+vulnerabilities:
+    - vuln_4
