@@ -4,7 +4,7 @@ name: "Sample Prototype Round Full Scan Challenge 01"
 
 challenge-type: full    # full | delta
 
-base-ref: 1d347ed091bff5940444dba9accdb017712d260f
+base-ref: d5f462cf38e95c6c9b35f7b1851949eac6306e22
 
 vulnerabilities:
     - vuln_1
