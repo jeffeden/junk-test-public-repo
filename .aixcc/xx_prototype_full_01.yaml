@@ -1,0 +1,12 @@
+challenge-yaml-version: v1
+
+name: "Sample Prototype Round Full Scan Challenge 01"
+
+challenge-type: full    # full | delta
+
+base-ref: 1d347ed091bff5940444dba9accdb017712d260f
+
+vulnerabilities:
+    - vuln_1
+    - vuln_2
+    - vuln_3
